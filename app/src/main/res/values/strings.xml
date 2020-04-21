@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homework_1</string>
+    <string name="button_1_text">hw_1_task_1_vers_1</string>
+    <string name="button_2_text">hw_1_task_1_vers_2</string>
+    <string name="button_3_text">hw_1_task_1_vers_3</string>
+    <string name="button_4_text">hw_1_task_2_vers_1</string>
+    <string name="button_sub">-</string>
+    <string name="button_add">+</string>
+    <string name="text_hint">enter text</string>
+    <string name="text_button">GO TEXT</string>
+</resources>
